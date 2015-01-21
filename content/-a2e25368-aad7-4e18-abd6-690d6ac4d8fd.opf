@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid">-3e520ab1-d05c-4c21-8a27-2f7c2340e49c</dc:identifier>
+    <dc:title>تجريبي</dc:title>
+      <date xmlns="" opf:event="publication" xmlns:opf="http://www.idpf.org/2007/opf">2015-1-21</date>
+</metadata>
+  <manifest><item href="-82fdb991-1336-4758-ac3f-261c3ceabb57-nav.html" id="-82fdb991-1336-4758-ac3f-261c3ceabb57-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-01968f1b-28f9-4a69-9e55-efa1767dcf36.html" id="module1-01968f1b-28f9-4a69-9e55-efa1767dcf36.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-01968f1b-28f9-4a69-9e55-efa1767dcf36.html"></itemref></spine>
+</package>
